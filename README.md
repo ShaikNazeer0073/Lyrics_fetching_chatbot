@@ -19,7 +19,7 @@ Tum Hi Ho by Arijit Singh
 -  Make sure to use *Song Name by Artist Name*
 -  You can also just say things like “hi” or “give me lyrics” and the bot will respond!
 -  If you ask anything else, the bot will politely say it's only made for lyrics.
-- Note: Hindi songs are limited, as Genius doesn't have copyright issues.
+- Note: Hindi songs are limited, as Genius has copyright issues.
 ---
 
 ##  Tools Used
